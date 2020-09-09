@@ -1,0 +1,86 @@
+body {
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2020/07/25/tesla-cybertruck--wallpaper.jpg");
+  background-color: #cccccc;
+  height: 600px;
+  /* You must set a specified height */
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+}
+
+.h1_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 36px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.h2_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  margin-top: 145px;
+}
+
+.h3_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+}
+
+.p1_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.p2_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+}
+
+.p3_cls {
+  color: white;
+  font-family: entypo-fontello;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+}
+
+.btn_cls {
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  margin-left: 585px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+img{
+  width: 6%;
+  margin-left: 615px;
+}
